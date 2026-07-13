@@ -16,8 +16,8 @@ Distribution, persistence, reactivity, atomicity, and observability come out as 
 
 **Core**
 
-- [interaction-model](https://github.com/nustackdev/interaction-model). The model canonical spec.
-- [nu](https://github.com/nustackdev/nu). Python implementation of the model, runtime, and in-tree Fabrics (`nu.m`, `nu.v`, `nu.ui`, `nu.invisibles`, `nu.ray`).
+- [interaction-model](https://github.com/nustackdev/interaction-model) - The model canonical spec.
+- [nu](https://github.com/nustackdev/nu) - Python implementation of the model (`nu.m`, `nu.v`, `nu.ui`, `nu.invisibles`, `nu.ray`).
 
 **Apps**
 
