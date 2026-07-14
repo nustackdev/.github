@@ -21,12 +21,8 @@ Distribution, persistence, reactivity, atomicity, and observability come out as 
 
 **Apps**
 
-- [nulog](https://github.com/nustackdev/nulog). Structured logging as a Nu app.
+- [nulog](https://github.com/nustackdev/nulog) Structured logging as a Nu app.
 
-## Start
+---
 
-```bash
-pip install nu[default]
-```
-
-Full model and docs at [nustack.dev](https://nustack.dev).
+Full docs at [https://nustack.dev/docs](https://nustack.dev/docs/)
