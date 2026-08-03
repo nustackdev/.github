@@ -1,4 +1,5 @@
-<img width="1500" height="500" alt="cover-3x1-1500x500-nustack-dark-m30" src="https://github.com/user-attachments/assets/5c43d7bc-fe35-4258-9a18-f8283ff5a984" />
+<img width="1600" height="333" alt="cover-readme-thin-1600x333-nustack-dark-rounded-m30" src="https://github.com/user-attachments/assets/cac8b63a-e3d1-4d16-94b2-78dee0ac7f0c" />
+
 
 Build apps in one primitive that spans your whole stack (databases, UIs, AI agents, and services). No glue. 50x less code.
 
