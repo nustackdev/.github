@@ -2,7 +2,5 @@
 
 Build apps in one primitive that spans your whole stack (databases, UIs, AI agents, and services). No glue. 50x less code.
 
-- [interaction-model](https://github.com/nustackdev/interaction-model) - The model canonical spec.
-- [nu](https://github.com/nustackdev/nu) - Python implementation of the model.
-
-Full docs at [https://nustack.dev/docs](https://nustack.dev/docs/)
+- Repo: [nustackdev/nu](https://github.com/nustackdev/nu)
+- Website: [https://nustack.dev](https://nustack.dev/)
